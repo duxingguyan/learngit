@@ -1,3 +1,0 @@
-git checkout -- test.txt
-git reset HEAD test.txt
-git 
